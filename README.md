@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Richard!
+## Hey, I'm Richard!
 
 I'm a software engineer with a background in business and as a practicing attorney. That experience helped me develop a strong foundation in analysis, precision, and strategic problem-solving while working in complex, high-stakes environments.
 Today, I bring that mindset to engineering, solving technical challenges with a focus on building clean, efficient, and impactful software.
