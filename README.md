@@ -8,13 +8,13 @@ Today, I bring that mindset to engineering, solving technical challenges with a 
 Most recently, I co-created [Nimbus](https://nimbusnlp.github.io/), an open-source deployment framework that simplifies getting lightweight NLP models into production.
 If you're interested, I authored an [in-depth technical case study](https://nimbusnlp.github.io/docs/introduction) exploring the system design, engineering decisions, and challenges behind the project.
 
-## 💼 Recent Experience
+## Recent Experience
 
 **Software Engineering Intern @ [Mastra](https://mastra.ai/)** — Building AI agent infrastructure including PostHog observability, Azure OpenAI Gateway support, MCP auth-context propagation, and tool builder enhancements.
 
 **Open Source Contributor @ [Mozilla Firefox](https://www.mozilla.org/firefox/)** — Contributing to WebExtensions API improvements, keyboard shortcut conflict safeguards, and API documentation refinements.
 
-## 🛠️ Technologies and Tools I work with:
+## Technologies and Tools I work with:
 
 | Category | Technologies |
 | --- | --- |
@@ -26,7 +26,7 @@ If you're interested, I authored an [in-depth technical case study](https://nimb
 | **AI/ML** | ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat) ![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat) |
 | **Testing & Tools** | ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) ![Vitest Badge](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=flat) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat) |
 
-## 📫 Get in Touch!
+## Get in Touch!
 
 <a href="https://www.linkedin.com/in/richard-loricco-esq">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat" alt="LinkedIn">
